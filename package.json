@@ -1,0 +1,19 @@
+{
+  "name": "reapp-raf-batching",
+  "version": "1.0.0",
+  "description": "facebook raf batching strategy for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/reapp/reapp-raf-batching"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/reapp/reapp-raf-batching/issues"
+  },
+  "homepage": "https://github.com/reapp/reapp-raf-batching"
+}
