@@ -10,7 +10,7 @@
  * @typechecks static-only
  */
 
-var ExecutionEnvironment = require('react/lib/ExecutionEnvironment');
+var ExecutionEnvironment = require('fbjs/lib/ExecutionEnvironment');
 var ReactUpdates = require('react/lib/ReactUpdates');
 
 function tick() {
