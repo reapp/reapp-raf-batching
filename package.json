@@ -18,6 +18,6 @@
   "homepage": "https://github.com/reapp/reapp-raf-batching",
   "peerDependencies": {
     "fbjs": "^0.4.0",
-    "react": "^0.14.0"
+    "react": "^15.1.0"
   }
 }
